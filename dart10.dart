@@ -1,4 +1,4 @@
-// Interfae
+// Interface
 
 void main() {
   Lion lion = new Lion();
