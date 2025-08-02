@@ -11,8 +11,8 @@ void main() {
     print("a is less than or greater than 5");
   }
 
-// condition_expression
-var age: 20;
-var status = (age >= 18) ? "Adult" : "Young";
-print("Status: $status"); // Output: Status: Adult
+  // condition_expression
+  var age = 20;
+  var status = (age >= 18) ? "Adult" : "Young";
+  print("Status: $status"); // Output: Status: Adult
 }
